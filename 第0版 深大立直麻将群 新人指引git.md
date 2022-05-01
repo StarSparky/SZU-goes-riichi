@@ -26,7 +26,7 @@
 
 Steam端直接搜雀魂麻将，开始游戏就行了：
 
-[steam_surface.png (887×397) (raw.githubusercontent.com)](https://raw.githubusercontent.com/StarSparky/SZU-goes-riichi/main/docimg/steam_surface.png)
+[图片：如何在Steam上进入雀魂麻将 (887×397) (raw.githubusercontent.com)](https://raw.githubusercontent.com/StarSparky/SZU-goes-riichi/main/docimg/steam_surface.png)
 
 手机端可以在 http://www.maj-soul.com/ 上下载apk包，如果搞不定也可以找群杰哥（@群杰哥）要一个apk包（体积大概600MB，杰哥可能会通过网盘或QQ上传文件包）。
 
@@ -44,7 +44,7 @@ Steam端直接搜雀魂麻将，开始游戏就行了：
 
 3.役牌，即门风牌（桌子上正对着你的字），场风牌（桌子中间写着“**东**1局”，那么这局的场风牌就是**东**）和三元牌（白发中），这三类牌如果组成了刻子（三张一样的），就算1番。**极其适合**想要吃/碰/明杠的场合。
 
-[how_wind_works.png (1038×562) (raw.githubusercontent.com)](https://raw.githubusercontent.com/StarSparky/SZU-goes-riichi/main/docimg/how_wind_works.png)
+[图片：门风牌和场风牌到底是怎么回事 (1038×562) (raw.githubusercontent.com)](https://raw.githubusercontent.com/StarSparky/SZU-goes-riichi/main/docimg/how_wind_works.png)
 
 ###### 如何和群友一起开始游戏
 
