@@ -26,7 +26,7 @@
 
 Steam端直接搜雀魂麻将，开始游戏就行了：
 
-[图片：如何在Steam上进入雀魂麻将 (887×397) (raw.githubusercontent.com)](https://raw.githubusercontent.com/StarSparky/SZU-goes-riichi/main/docimg/steam_surface.png)
+[steam_surface.png (887×397) (raw.githubusercontent.com)](https://raw.githubusercontent.com/StarSparky/SZU-goes-riichi/main/docimg/steam_surface.png)
 
 手机端可以在 http://www.maj-soul.com/ 上下载apk包，如果搞不定也可以找群杰哥（@群杰哥）要一个apk包（体积大概600MB，杰哥可能会通过网盘或QQ上传文件包）。
 
@@ -44,7 +44,29 @@ Steam端直接搜雀魂麻将，开始游戏就行了：
 
 3.役牌，即门风牌（桌子上正对着你的字），场风牌（桌子中间写着“**东**1局”，那么这局的场风牌就是**东**）和三元牌（白发中），这三类牌如果组成了刻子（三张一样的），就算1番。**极其适合**想要吃/碰/明杠的场合。
 
-[图片：门风牌和场风牌到底是怎么回事 (1038×562) (raw.githubusercontent.com)](https://raw.githubusercontent.com/StarSparky/SZU-goes-riichi/main/docimg/how_wind_works.png)
+[how_wind_works.png (1038×562) (raw.githubusercontent.com)](https://raw.githubusercontent.com/StarSparky/SZU-goes-riichi/main/docimg/how_wind_works.png)
+
+其余的役种可以通过游戏内的“役种一览”查看。
+
+
+
+###### 我看不懂“役种一览”怎么办
+
+杰哥猜你是碰见了你无法理解的唐突术语：门前清，副露，雀头，副露，荣和，自摸等。
+
+门前清：没有发生 吃 碰 明杠 的牌组状态（明杠是自己三张牌拿别人一张牌杠，相对的是四张牌都是自己摸上来的暗杠）
+
+副露：作形容词表示 “发生了 吃 碰 明杠 的牌组状态”，作动词表示 吃 碰 明杠 动作。
+
+雀头：胡牌时手里的那个对子，胡牌公式里： $x\times$AAA+$(4-x)\times$ABC+DD 的那个 DD。
+
+自摸：胡的那张牌是自己摸到的
+
+荣和：胡的那张牌是别人出的
+
+宣言/宣言牌：玩家打出去的牌
+
+
 
 ###### 如何和群友一起开始游戏
 
@@ -68,7 +90,7 @@ Steam端直接搜雀魂麻将，开始游戏就行了：
 
 当然靠运气也可以，只不过随着对局数量的增长，技术的重要性越来越得以体现。
 
-杰哥手里有一些相关的资料，其中比较重要的是《79日麻教程》，这本书里的内容对雀1-杰3想升段的选手相当重要。想要的群友可以喊一声杰哥（@群杰哥），叫他把资料发到群里。同时杰哥手里的其他资料会在新人指引的后续版本中更新。
+杰哥手里有一些相关的资料，其中比较重要的是《79日麻教程》，这本书里的内容对雀1-杰3想升段的选手相当重要。想要的群友可以喊一声杰哥，叫他把资料发到群里。同时杰哥手里的其他资料会在新人指引的后续版本中更新。
 
 如果在对局中遇见不明白的何切，或者遇到自己稀里糊涂就吃了4的牌谱，可以挂到群里让较高分段的群友们看看到底是哪里出了问题。
 
@@ -86,4 +108,4 @@ Steam端直接搜雀魂麻将，开始游戏就行了：
 
  
 
- 
+  全文由杰哥（@群杰哥）编辑于2022.5.6，祝大家能够体会到麻将的快乐，并且雀力日进！
